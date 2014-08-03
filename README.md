@@ -8,7 +8,7 @@ A simple Cocoa application (OS X) that say speak text using speech synthesizer
 ![Buttons example](https://raw.githubusercontent.com/honghaoz/SpeakLine-Cocoa/master/screenshot.png)
 
 ## Download:
-Click "Download ZIP" on the right side, unarchive the file and open "SpeakLine.app".
+Click "[Download ZIP](https://github.com/honghaoz/SpeakLine-Cocoa/archive/master.zip)" on the right side, unarchive the file and open "SpeakLine.app".
 
 ## Author
 
