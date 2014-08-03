@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6EB79949-48C1-4FEB-955E-2CBEEFC1F563</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SpeakLine</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B7FE3F6E-FB33-468B-BD56-2B0701EB0AAE</key>
+		<string>https://github.com/honghaoz/SpeakLine-Cocoa.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SpeakLine.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B7FE3F6E-FB33-468B-BD56-2B0701EB0AAE</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/honghaoz/SpeakLine-Cocoa.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B7FE3F6E-FB33-468B-BD56-2B0701EB0AAE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B7FE3F6E-FB33-468B-BD56-2B0701EB0AAE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SpeakLine</string>
+		</dict>
+	</array>
+</dict>
+</plist>
